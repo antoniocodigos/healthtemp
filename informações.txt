@@ -1,0 +1,23 @@
+GRUPO 1 3Y  MTECPI
+
+HOST ftp.tcc3yetecgrupo1.tecnologia.ws
+USUARIO FTP tcc3yetecgrupo1t1
+PORTA 21
+SENHA FTP Tcc3yetecgrupo1t1#123#
+
+END.URL
+http://tcc3yetecgrupo1t1.hospedagemdesites.ws - Android
+https://tcc3yetecgrupo1t1.websiteseguro.com - Visualização
+                                                                                                                                                                                                                                    
+SERVIDOR BANCO
+
+tcc_bd35.mysql.dbaas.com.br  
+USUARIO O BANCO tcc_bd35     
+NOME DO  BANCO tcc_bd35  
+SENHA  ROSA123456a#
+
+
+próxima apresentação (7/04 - 10/04) 
+
+cadastrar usuário
+logar usuário
